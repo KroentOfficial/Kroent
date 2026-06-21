@@ -2,7 +2,7 @@
 <img src="kroent-logo.png" width="700">
 </p>
 
-# Kroent
+# KROENT™
 
 ## Industrial Filtration Solutions
 
@@ -10,19 +10,21 @@ Water Treatment • Process Separation
 
 MF • UF • Depth Filtration
 
-Technology-driven industrial filtration and separation solutions for pharmaceutical, electronics, chemical, petrochemical, food & beverage and water industries.
+Technology-driven industrial filtration and separation solutions for process industries, advanced manufacturing, energy infrastructure and environmental applications.
 
 ---
 
 ## Quick Navigation
 
-- [Filtration Basics](#filtration-basics)
+* [Featured Infographic](#featured-infographic)
 
-- [Industry Applications](#industry-applications)
+* [Filtration Basics](#filtration-basics)
 
-- [Products](#products)
+* [Industry Applications](#industry-applications)
 
-- [Contact](#contact)
+* [Products](#products)
+
+* [Connect with Kroent](#connect-with-kroent)
 
 ---
 
@@ -50,11 +52,21 @@ Technology-driven industrial filtration and separation solutions for pharmaceuti
 
 ### Pharmaceutical Filtration
 
-### Electronics Industry Filtration
+### Electronics & Semiconductor Filtration
 
-### Chemical Processing Filtration
+### Chemical & Petrochemical Filtration
+
+### Food & Beverage Processing
 
 ### Water Treatment Solutions
+
+### Energy Storage Liquid Cooling Filtration
+
+### AI Data Center Liquid Cooling Filtration
+
+### Industrial Air Filtration
+
+### Heavy Industry Applications
 
 ---
 
@@ -72,27 +84,28 @@ Technology-driven industrial filtration and separation solutions for pharmaceuti
 
 # Connect with Kroent
 
-Website
+🌐 Website
 
 https://www.kroent.com
 
-Medium
+📰 Medium
 
 https://medium.com/@Kroent
 
-Facebook
+📘 Facebook
 
 https://www.facebook.com/Kroent
 
-Pinterest
+📌 Pinterest
 
 https://www.pinterest.com/Kroentofficial
 
-X (Twitter)
+𝕏 X (Twitter)
 
 https://x.com/KroentOfficial
 
-WhatsApp
+💬 WhatsApp
 
 https://wa.me/85244147292
+
 
