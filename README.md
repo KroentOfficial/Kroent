@@ -1,5 +1,5 @@
 <p align="center">
-<img src="kroent-logo.png" width="850">
+<img src="kroent-logo.png" width="750">
 </p>
 
 # Kroent
