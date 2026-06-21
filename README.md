@@ -20,6 +20,14 @@ WhatsApp: +852 4414 7292
 
 ### Different Filtration Technologies
 
+Different filtration technologies are designed for different applications.
+
+- Microfiltration (MF)
+- Ultrafiltration (UF)
+- Depth Filtration
+
+![Different Filtration Technologies](different-filtration-technologies.png)
+
 ### What Is Microfiltration (MF)?
 
 ### What Is Ultrafiltration (UF)?
