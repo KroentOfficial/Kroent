@@ -16,15 +16,19 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 ## Quick Navigation
 
-* [Featured Infographic](#featured-infographic)
+- [Featured Infographic](#featured-infographic)
 
-* [Filtration Basics](#filtration-basics)
+- [Filtration Basics](#filtration-basics)
 
-* [Industry Applications](#industry-applications)
+- [Serving Industries](#serving-industries)
 
-* [Products](#products)
+- [Industry Applications](#industry-applications)
 
-* [Connect with Kroent](#connect-with-kroent)
+- [Products](#products)
+
+- [Knowledge Center](#knowledge-center)
+
+- [Connect with Kroent](#connect-with-kroent)
 
 ---
 
@@ -45,6 +49,28 @@ Technology-driven industrial filtration and separation solutions for process ind
 ### What Is Depth Filtration?
 
 ### MF vs UF
+
+---
+
+# Serving Industries
+
+- Pharmaceutical
+
+- Electronics & Semiconductor
+
+- Chemical & Petrochemical
+
+- Food & Beverage
+
+- Water Treatment
+
+- Energy Storage
+
+- AI Data Centers
+
+- Heavy Industries
+
+- Environmental Applications
 
 ---
 
@@ -79,6 +105,26 @@ Technology-driven industrial filtration and separation solutions for process ind
 ### Filter Housings
 
 ### Complete Filtration Systems
+
+---
+
+# Knowledge Center
+
+### Industrial Filtration Fundamentals
+
+### Microfiltration (MF)
+
+### Ultrafiltration (UF)
+
+### Depth Filtration
+
+### Process Separation
+
+### Liquid Cooling Filtration
+
+### Energy Storage Applications
+
+### AI Data Center Applications
 
 ---
 
