@@ -16,8 +16,6 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 ## Quick Navigation
 
-- [Featured Infographic](#featured-infographic)
-
 - [Filtration Basics](#filtration-basics)
 
 - [Serving Industries](#serving-industries)
@@ -33,14 +31,6 @@ Technology-driven industrial filtration and separation solutions for process ind
 - [Contact](#contact)
 
 - [Follow Us](#follow-us)
-
----
-
-# Featured Infographic
-
-## Different Filtration Technologies
-
-![Different Filtration Technologies](different-filtration-technologies.png)
 
 ---
 
