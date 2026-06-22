@@ -26,6 +26,8 @@ Technology-driven industrial filtration and separation solutions for process ind
 
 - [Wiki](#wiki)
 
+- [FAQ](#faq)
+  
 - [Knowledge Center](#knowledge-center)
 
 - [Contact](#contact)
@@ -127,6 +129,14 @@ Explore our technical knowledge base.
 ### Energy Storage Applications
 
 ### AI Data Center Applications
+
+---
+
+# FAQ
+
+Frequently asked questions and technical resources.
+
+➡️ [Visit Wiki FAQ](https://github.com/KroentOfficial/Kroent/wiki/FAQ)
 
 ---
 
