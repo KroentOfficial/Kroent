@@ -4,11 +4,9 @@
 
 # KROENT
 
-## Industrial Filtration & Separation Solutions
+## Technical Resources for Filtration, Separation & Water Treatment
 
-Process Filtration • Process Separation • Water Treatment
-
-Technology-driven provider of industrial filtration and separation solutions for process industries, advanced manufacturing, energy infrastructure and environmental applications.
+Industrial filtration, membrane separation, water treatment, UPW systems and process applications for industrial and high-growth industries.
 
 ---
 
