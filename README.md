@@ -212,8 +212,6 @@ Explore our technical knowledge base.
 
 Frequently asked questions, technical documents and engineering resources for industrial filtration, membrane filtration and water treatment applications.
 
----
-
 ➡️ [Visit Wiki FAQ](https://github.com/KroentOfficial/Kroent/wiki/FAQ)
 
 ---
