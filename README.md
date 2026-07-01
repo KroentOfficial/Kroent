@@ -1,5 +1,5 @@
 <p align="center">
-<img src="github-banner1.png" width="60%">
+<img src="github-banner1.png" width="70%">
 </p>
 
 # KROENT
